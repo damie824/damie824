@@ -1,5 +1,5 @@
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.5%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -31,7 +31,7 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               7 hrs 37 mins       ██████████████████░░░░░░░   70.08 % 
+JavaScript               7 hrs 37 mins       ██████████████████░░░░░░░   70.09 % 
 SCSS                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 CSS                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
@@ -45,5 +45,5 @@ Windows                  10 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 12/05/2023 18:33:03 UTC
+ Last Updated on 13/05/2023 18:32:58 UTC
 <!--END_SECTION:waka-->

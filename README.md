@@ -1,5 +1,5 @@
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-175.1%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -46,5 +46,5 @@ Windows                  12 hrs 15 mins      ███████████�
 ```
 
 
- Last Updated on 21/11/2023 18:34:31 UTC
+ Last Updated on 22/11/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
